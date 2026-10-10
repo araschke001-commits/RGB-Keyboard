@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 3.5h | 1 |
+| Week 1 | Tier 2 | 4.5h | 1 |
 
 ## Contents
 
@@ -20,11 +20,11 @@
 
 ### 2026-10-09 – # Part Searching
 
-**3.5h**
+**4.5h**
 
 # Part Searching
 
-I searched for parts for my RGB keyboard for most the time with help from Google AI (about 2.5h, probably would have taken 2.5 weeks without AI) and the rest of the time I spent on getting started with my schematic.
+I searched for parts for my RGB keyboard for most the time with help from Google AI (about 3h, probably would have taken 3 weeks without AI) and the rest of the time I spent on getting started with my schematic.
 
 ## Searching for parts
 
