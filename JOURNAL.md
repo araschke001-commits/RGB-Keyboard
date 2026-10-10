@@ -26,6 +26,8 @@
 
 I searched for parts for my RGB keyboard for most the time with help from Google AI (about 3h, probably would have taken 3 weeks without AI) and the rest of the time I spent on getting started with my schematic.
 
+For how I calculated the time I spent on this, I had 0.5h on it during one class at school, then 1h in another class (it was a workday in both and I already finished the work). Then I worked on it for about 3h at home, the only interruption being dinner. I realized that I really needed to lock in to get it finished on time, so I put in a lot of work.
+
 ## Searching for parts
 
 For most of this, I was searching google, trying to find  what parts I would need for my keyboard and the symbol, footprint, and 3d model for those parts. The rest I spent on figuring out how it all would go together.
