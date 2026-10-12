@@ -18,7 +18,7 @@
 | [YMDK Cherry MX Keycaps](https://www.amazon.com/Profile-Translucent-Suitable-Mechanical-Keyboard/dp/B07L3HLFZM/ref=sr_1_6?crid=1BFSPAQZ3LK0V&dib=eyJ2IjoiMSJ9.ZjABgCR-QxDe-UxOiw72aE9hkm5Yk0GqCS4nDd237zlz1flR7R8ktkD5wmgYvbeLAsoY9znW1Cd-YgmYgrUQWoahB25BIFLkKS0I19PALlbAkpicfIUUATm6exIRycwEfVFpEpQNLRRvP4JkbUr66kwDTq4-A4Xc9fLpfmA4MYbrEeGsHMkgqKxd0UM7DJQfm7iTlFbkvtfzj9iHnR7eBpI62Ptqc12LCb3yyblJqeQ.f5l-UmtvGc3ZgVTEPdrCKFgWmKC2_A0roeRvOVWa5ZI&dib_tag=se&keywords=Cherry%2BMX%2B104%2Bkeycap%2Bset&qid=1791514105&sprefix=%2Caps%2C263&sr=8-6&th=1) | The keycaps to go on the switches | 1 | $18.99 | $18.99 | [Amazon](https://www.amazon.com/Profile-Translucent-Suitable-Mechanical-Keyboard/dp/B07L3HLFZM/ref=sr_1_6?crid=1BFSPAQZ3LK0V&dib=eyJ2IjoiMSJ9.ZjABgCR-QxDe-UxOiw72aE9hkm5Yk0GqCS4nDd237zlz1flR7R8ktkD5wmgYvbeLAsoY9znW1Cd-YgmYgrUQWoahB25BIFLkKS0I19PALlbAkpicfIUUATm6exIRycwEfVFpEpQNLRRvP4JkbUr66kwDTq4-A4Xc9fLpfmA4MYbrEeGsHMkgqKxd0UM7DJQfm7iTlFbkvtfzj9iHnR7eBpI62Ptqc12LCb3yyblJqeQ.f5l-UmtvGc3ZgVTEPdrCKFgWmKC2_A0roeRvOVWa5ZI&dib_tag=se&keywords=Cherry%2BMX%2B104%2Bkeycap%2Bset&qid=1791514105&sprefix=%2Caps%2C263&sr=8-6&th=1) |
 | [PCB](https://cart.jlcpcb.com/shopcart/cart) | The PCB the components all go on | 1 | $23.01 | $23.01 | [JLCPCB](https://cart.jlcpcb.com/shopcart/cart) |
 | **Parts subtotal** | — | — | — | **$97.38** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$97.38** | — |
+| **Tax & shipping** | — | — | — | **$55.20** | — |
+| **Total** | — | — | — | **$152.58** | — |
 
-$2.62 left of the tier's funding.
+**$52.58 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
