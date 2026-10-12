@@ -1,6 +1,6 @@
 Part,What it's for,Qty,Unit,Total,Vendor
-![Raspberry Pi Pico 2 Sc1631](https://www.digikey.com/en/products/detail/raspberry-pi/SC1631/24627136),Controlling keys and LED's,1,$6.12,$6.12,DigiKey
-Gateron V2 Linear Switches,The switches for the keyboard,1,$25.90,$25.90,Amazon
+"[Raspberry Pi Pico 2 Sc1631](https://www.digikey.com/en/products/detail/raspberry-pi/SC1631/24627136)",Controlling keys and LED's,1,$6.12,$6.12,DigiKey
+"[Gateron V2 Linear Switches](https://www.amazon.com/dp/B0C2CZJQHT?plpRedirect=mhFallback&ref=clp_cat_related_p_2&th=1)",The switches for the keyboard,1,$25.90,$25.90,Amazon
 WS2812B RGB LED,RGB backlighting for the keys,1,$5.27,$5.27,AliExpress
 SDYZ x XVX Doubleshot PBT Keycaps,The keycaps to go on the switches,1,$13.99,$13.99,Amazon
 PCB (+ PCBA),The PCB the components all go on,1,$23.01,$23.01,JLCPCB
