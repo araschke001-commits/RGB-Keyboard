@@ -14,11 +14,10 @@
 | --- | --- | --- | --- | --- | --- |
 | [Raspberry Pi Pico 2 SC1631](https://www.digikey.com/en/products/detail/raspberry-pi/SC1631/24627136) | Controlling keys and LED's. | 1 | $6.12 | $6.12 | [DigiKey](https://www.digikey.com/en/products/detail/raspberry-pi/SC1631/24627136) |
 | [Cherry MX MX2A Black RGB](https://www.thockking.com/products/cherry-mx2a-black-rgb-linear-switches-1?country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4Wa0yByon60K9nm4VFyXAlta8E_0J8yXUc_lAOat_9EDTJDJx4AxtQ&variant=44501093056728) | The switches for the keyboard | 110 | $0.40 | $44.00 | [Thock King](https://www.thockking.com/products/cherry-mx2a-black-rgb-linear-switches-1?country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4Wa0yByon60K9nm4VFyXAlta8E_0J8yXUc_lAOat_9EDTJDJx4AxtQ&variant=44501093056728) |
-| [Diodes Incorporated 1N4148W-7-F-W](https://www.digikey.com/en/products/detail/diodes-incorporated/1N4148W-7-F-W/27803652) | Stops ghosting on key presses | 110 | $0.07 | $7.70 | [DigiKey](https://www.digikey.com/en/products/detail/diodes-incorporated/1N4148W-7-F-W/27803652) |
 | [WS2812B RGB LED](https://www.aliexpress.us/item/3256811985880403.html) | RGB backlighting | 1 | $5.26 | $5.26 | [AliExpress](https://www.aliexpress.us/item/3256811985880403.html) |
 | [YMDK Cherry MX Keycaps](https://www.amazon.com/Profile-Translucent-Suitable-Mechanical-Keyboard/dp/B07L3HLFZM/ref=sr_1_6?crid=1BFSPAQZ3LK0V&dib=eyJ2IjoiMSJ9.ZjABgCR-QxDe-UxOiw72aE9hkm5Yk0GqCS4nDd237zlz1flR7R8ktkD5wmgYvbeLAsoY9znW1Cd-YgmYgrUQWoahB25BIFLkKS0I19PALlbAkpicfIUUATm6exIRycwEfVFpEpQNLRRvP4JkbUr66kwDTq4-A4Xc9fLpfmA4MYbrEeGsHMkgqKxd0UM7DJQfm7iTlFbkvtfzj9iHnR7eBpI62Ptqc12LCb3yyblJqeQ.f5l-UmtvGc3ZgVTEPdrCKFgWmKC2_A0roeRvOVWa5ZI&dib_tag=se&keywords=Cherry%2BMX%2B104%2Bkeycap%2Bset&qid=1791514105&sprefix=%2Caps%2C263&sr=8-6&th=1) | The keycaps to go on the switches | 1 | $18.99 | $18.99 | [Amazon](https://www.amazon.com/Profile-Translucent-Suitable-Mechanical-Keyboard/dp/B07L3HLFZM/ref=sr_1_6?crid=1BFSPAQZ3LK0V&dib=eyJ2IjoiMSJ9.ZjABgCR-QxDe-UxOiw72aE9hkm5Yk0GqCS4nDd237zlz1flR7R8ktkD5wmgYvbeLAsoY9znW1Cd-YgmYgrUQWoahB25BIFLkKS0I19PALlbAkpicfIUUATm6exIRycwEfVFpEpQNLRRvP4JkbUr66kwDTq4-A4Xc9fLpfmA4MYbrEeGsHMkgqKxd0UM7DJQfm7iTlFbkvtfzj9iHnR7eBpI62Ptqc12LCb3yyblJqeQ.f5l-UmtvGc3ZgVTEPdrCKFgWmKC2_A0roeRvOVWa5ZI&dib_tag=se&keywords=Cherry%2BMX%2B104%2Bkeycap%2Bset&qid=1791514105&sprefix=%2Caps%2C263&sr=8-6&th=1) |
-| **Parts subtotal** | — | — | — | **$82.07** | — |
+| **Parts subtotal** | — | — | — | **$74.37** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$82.07** | — |
+| **Total** | — | — | — | **$74.37** | — |
 
-$17.93 left of the tier's funding.
+$25.63 left of the tier's funding.
