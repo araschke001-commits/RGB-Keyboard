@@ -18,7 +18,7 @@
 | [SDYZ x XVX Doubleshot PBT Keycaps](https://www.amazon.com/SDYZ-XVX-Doubleshot-Keycaps-Percent/dp/B0DNMWDQTN/ref=sr_1_10?dib=eyJ2IjoiMSJ9.wEGn3F6DQyShvv1GbMZGUBH1lIN2bFlUHpFxwaWaFpq0mnuOJtZc8G5Lexwsv_0OVp43FlyAa86ZMykslQtyk9oZ9TyqxBdJWntOzoRqnW3PT1hrkPl5CkPLp1_NbCSO19ULdayd-egwZcpjWcnliaM-0YCCg0WEqInxb4pfznu5EOmSeCoRhB0OtIMBCU2LHkHCNSYuDroEEmHJXgs9nQIy8IF3mWqQj-S6jGVub2U.uS07PeLr1MQ14RYiQQYHr81bFCWXaT0e6y0OXhlseS8&dib_tag=se&keywords=shinethrough%2Bpbt%2Bkeycaps&qid=1791828404&sr=8-10&th=1) | The keycaps to go on the switches | 1 | $13.99 | $13.99 | [Amazon](https://www.amazon.com/SDYZ-XVX-Doubleshot-Keycaps-Percent/dp/B0DNMWDQTN/ref=sr_1_10?dib=eyJ2IjoiMSJ9.wEGn3F6DQyShvv1GbMZGUBH1lIN2bFlUHpFxwaWaFpq0mnuOJtZc8G5Lexwsv_0OVp43FlyAa86ZMykslQtyk9oZ9TyqxBdJWntOzoRqnW3PT1hrkPl5CkPLp1_NbCSO19ULdayd-egwZcpjWcnliaM-0YCCg0WEqInxb4pfznu5EOmSeCoRhB0OtIMBCU2LHkHCNSYuDroEEmHJXgs9nQIy8IF3mWqQj-S6jGVub2U.uS07PeLr1MQ14RYiQQYHr81bFCWXaT0e6y0OXhlseS8&dib_tag=se&keywords=shinethrough%2Bpbt%2Bkeycaps&qid=1791828404&sr=8-10&th=1) |
 | [PCB (+ PCBA)](https://cart.jlcpcb.com/shopcart/cart) | The PCB the components all go on | 1 | $23.01 | $23.01 | [JLCPCB](https://cart.jlcpcb.com/shopcart/cart) |
 | **Parts subtotal** | — | — | — | **$74.29** | — |
-| **Tax & shipping** | — | — | — | **$25.72** | — |
-| **Total** | — | — | — | **$100.01** | — |
+| **Tax & shipping** | — | — | — | **$28.71** | — |
+| **Total** | — | — | — | **$103.00** | — |
 
-**$0.01 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$3.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
