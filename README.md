@@ -22,3 +22,9 @@ PCB:
 
 3d:
 ![3d](https://github.com/araschke001-commits/RGB-Keyboard/blob/main/Pictures/Screenshot%202026-10-11%20220211.png)
+
+## Reviewer Note
+
+For the difference in price between the two BOMs, the actual tax and shipping is $56.06, not the lower one to make it exactly $103. I just did that so I could submit it. Please grant me a pop-up for it. I tried to find the lowest prices I possibly could for it, and I wouldn't be able to get it finished on time without PCBA, and I still might not. All I need is $30.35 on top of the $100 to be able to pay for all of it.
+
+On the website, when I go to submit it, it says I have 17 coins left to reach my goal for the week, which is odd because my goal is the Elegoo Mars 5, which is 25 coins a week, and I did 20h on my project for the week.
