@@ -25,8 +25,8 @@ PCB:
 
 ## Reviewer Note
 
-For the difference in price between the two BOMs, the actual tax and shipping is $56.06, not the lower one to make it exactly $103. I just did that so I could submit it. Please grant me a pop-up for it. I tried to find the lowest prices I possibly could for it, and I wouldn't be able to get it finished on time without PCBA, and I still might not. All I need is $16.36 on top of the $100 to be able to pay for all of it.
+For the difference in price between the two BOMs, the actual tax and shipping is $56.06, not the lower one to make it exactly $103. I just did that so I could submit it. Please grant me a top-up for it. I tried to find the lowest prices I possibly could for it, and I wouldn't be able to get it finished on time without PCBA, and I still might not. All I need is $17.86 on top of the $100 to be able to pay for all of it.
 
 For the key caps being included in the BOM.md and on Half Life but not in RGB Keyboard BOM, the reason is because I realized after I submitted the project that I should have the key caps be under Week 2 rather than Week 1, which made the totals less also.
 
-On the website, when I go to submit it, it says I have 17 coins left to reach my goal for the week, which is odd because my goal is the Elegoo Mars 5, which is 25 coins a week, and I did 20h on my project for the week.
+On the website, when I go to submit it, it says I have 17 coins left to reach my goal for the week, which is odd because my goal is the Elegoo Mars 5, which is 25 coins a week, and I did 20h+ on my project for the week.
