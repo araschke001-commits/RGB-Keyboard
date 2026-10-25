@@ -79,7 +79,7 @@ I searched for parts for my keyboard, finding many of them, researched about how
 
 In addition to the timelapse, there were 2 times where I forgot to hit the record button again after taking a break. For the first one, I was editing the schematic for about 30 minutes, replacing the nets with the correct ones for half of the switches. For the second, I was placing the LED's on the PCB, which was about 20 minutes of it.
 
-For the layout, I used an image (https://cdn.shopify.com/s/files/1/0280/3931/5529/files/full_size_1024x1024.jpg?v=1650363290) to figure out what spacing, in u's, the keys were apart from one another and then do some math to figure out the distances. Later I figured out that some of these were wrong, so I had to change them.
+For the layout of the switches, I used an image (https://cdn.shopify.com/s/files/1/0280/3931/5529/files/full_size_1024x1024.jpg?v=1650363290) to figure out what spacing, in u's, the keys were apart from one another and then do some math to figure out the distances. Later I figured out that some of these were wrong, so I had to change them.
 
 [Timelapse](https://lookout.hackclub.com/api/media/4a01dd50-ad74-4f39-9c27-9f7d8af11e8f/video.mp4)
 
