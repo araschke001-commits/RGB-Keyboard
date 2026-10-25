@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-12T03:25:34.757Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuyxftc5027301rwoxqwvcgx). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A keyboard that lights up in any color. The colors can also have effects, like a rainbow across the entire keyboard or a wave from the key pressed.
 
@@ -36,20 +36,20 @@ For how I calculated the time I spent on this, I had 0.5h on it during one class
 For most of this, I was searching google, trying to find  what parts I would need for my keyboard and the symbol, footprint, and 3d model for those parts. The rest I spent on figuring out how it all would go together.
 
 - First, I looked for a switch to use that would support RGB leds. I was able to find the Cherry MX2A-L1NA fairly quickly, but the tough part was finding the symbol and footprint for EasyEda to be able to use. I spent a long time searching with Google AI to find a symbol for it or at least one that was identical. It eventually led me to using a user-contributed part which I am using now. Everything looks fine for now with it, so I am hoping it does not let me down.
-![Screenshot 2026-10-08 223003](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/96f6d559a8f79f34682d32c280ccc17c6c66be3c2fd6c41235c4dfd42946505e.png)
+![Screenshot 2026-10-08 223003](https://halflife.hackclub-assets.com/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/96f6d559a8f79f34682d32c280ccc17c6c66be3c2fd6c41235c4dfd42946505e.png)
 
 - Second, I looked for the leds to go with the switches. After a little while searching, I was able to find the Adafruit 2686 which seemed to go perfectly with the switches. Finding the symbol and footprint also took a long time, and I actually gave up searching and came back to it at the end. I was eventually able to find a site to download the models from, and from there I imported it into EasyEda, although basically all of Adafruit's library came with it (600+ items).
-![Screenshot 2026-10-08 223423](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/0ecf2950633f9def4c9053efeec3aaf34f8c035d0874c2090d51008796f3201c.png)
+![Screenshot 2026-10-08 223423](https://halflife.hackclub-assets.com/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/0ecf2950633f9def4c9053efeec3aaf34f8c035d0874c2090d51008796f3201c.png)
 
 - Third, I looked for the keycaps to go on the switches. At first, I was thinking I was just going to get a set of keycaps with no design for the keyboard, but then I realized that I would need to have ones with designs and larger ones, so I looked into a keyboard set of keycaps, and found some on Amazon. I spent a while searching because I wanted them to look good, but the ones I landed on were actually the first ones I found.
-![Screenshot 2026-10-08 223404](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/77842fc57cb3a5be5d7196b286a75d2e74998e2a617ff61f5b0aed3be45e2054.png)
+![Screenshot 2026-10-08 223404](https://halflife.hackclub-assets.com/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/77842fc57cb3a5be5d7196b286a75d2e74998e2a617ff61f5b0aed3be45e2054.png)
 
 - After that, I decided it was time to find a microcontroller for the project (maybe should have been my first instinct, but it seemed to work out fine). I looked for some that used C++, or QMK, but then I decided to use one that used Python (the RASPBERRY PI PICO 2 RP2350) because it seemed like a great fit for my project, I know how to use Python quite well already, and it was pretty compact. I was able to get the models for it fairly easily, although the symbol and footprint were in Kicad's format and I wasn't able to import them into EasyEda, but I just realized as I was writing this that it might be on EasyEda already, and sure enough, it is.
-![Screenshot 2026-10-08 222934](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/d993cc45563c875e6585b5575919c67da21b2bfd3386c388378f987178bf1f54.png)
-![Screenshot 2026-10-08 225502](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/f9ca446f53a733277f0598d402d7c4d9c8e5270e6e0f5a7fc4088128700c4345.png)
+![Screenshot 2026-10-08 222934](https://halflife.hackclub-assets.com/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/d993cc45563c875e6585b5575919c67da21b2bfd3386c388378f987178bf1f54.png)
+![Screenshot 2026-10-08 225502](https://halflife.hackclub-assets.com/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/f9ca446f53a733277f0598d402d7c4d9c8e5270e6e0f5a7fc4088128700c4345.png)
 
 - Finally, after the microcontroller, I was researching how the matrix wiring for the switches and the wiring for the leds was going to work, and I realized that I would need a diode for each switch. I was able to find the diode to use with minimal effort with the help of Google, and I downloaded the models for it, but I didn't import them into EasyEda for whatever reason.
-![Screenshot 2026-10-08 223020](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/c19f755c9469d6bb2cf9384aaee3019e209b731c2b2e723012cce3c3b8507556.png)
+![Screenshot 2026-10-08 223020](https://halflife.hackclub-assets.com/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/c19f755c9469d6bb2cf9384aaee3019e209b731c2b2e723012cce3c3b8507556.png)
 
 ## Starting on my PCB Schematic
 
@@ -59,9 +59,9 @@ For most of this, I was searching google, trying to find  what parts I would nee
 
 These are the images of my schematic before and after I got the RASPBERRY PI PICO 2 RP2350 imported:
 
-![Screenshot 2026-10-08 222838](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/c45472e9102873e41fecf03490e47c0c7e639c8d8b7cdf1564bc16b445b653aa.png)
+![Screenshot 2026-10-08 222838](https://halflife.hackclub-assets.com/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/c45472e9102873e41fecf03490e47c0c7e639c8d8b7cdf1564bc16b445b653aa.png)
 
-![Screenshot 2026-10-08 225502](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/f9ca446f53a733277f0598d402d7c4d9c8e5270e6e0f5a7fc4088128700c4345.png)
+![Screenshot 2026-10-08 225502](https://halflife.hackclub-assets.com/sessions/C7XTeoGu1WMIOvASw16iCwtNdoTXkQ5G/f9ca446f53a733277f0598d402d7c4d9c8e5270e6e0f5a7fc4088128700c4345.png)
 
 ## Summary (TL;DR)
 
@@ -78,6 +78,8 @@ I searched for parts for my keyboard, finding many of them, researched about how
 **4.07h**
 
 In addition to the timelapse, there were 2 times where I forgot to hit the record button again after taking a break. For the first one, I was editing the schematic for about 30 minutes, replacing the nets with the correct ones for half of the switches. For the second, I was placing the LED's on the PCB, which was about 20 minutes of it.
+
+For the layout, I used an image (https://cdn.shopify.com/s/files/1/0280/3931/5529/files/full_size_1024x1024.jpg?v=1650363290) to figure out what spacing, in u's, the keys were apart from one another and then do some math to figure out the distances. Later I figured out that some of these were wrong, so I had to change them.
 
 [Timelapse](https://lookout.hackclub.com/api/media/4a01dd50-ad74-4f39-9c27-9f7d8af11e8f/video.mp4)
 
