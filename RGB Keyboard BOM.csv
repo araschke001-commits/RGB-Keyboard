@@ -1,8 +1,0 @@
-Part,What it's for,Qty,Unit,Total,Vendor, Link
-Raspberry Pi Pico 2 Sc1631,Controlling keys and LED's,1,$6.12,$6.12,DigiKey,https://www.digikey.com/en/products/detail/raspberry-pi/SC1631/24627136
-KPREPUBLIC OTM Outemu Switches,The switches for the keyboard,1,$27.40,$27.40,Amazon,https://www.amazon.com/dp/B0BZ48GW7H?lv=shuf&channelId=500&plpRedirect=mhFallback&th=1
-WS2812B RGB LED,RGB backlighting for the keys,1,$5.27,$5.27,AliExpress,https://www.aliexpress.us/item/3256811985880403.html
-PCB (+ PCBA),The PCB the components all go on and the components on the back of the PCB except the Raspberry Pi,1,$23.01,$23.01,JLCPCB,---
-Parts subtotal,---,---,---,$61.80,---,---
-Tax & shipping,---,---,---,$56.06,---,---
-Total,---,---,---,$117.86,---,---

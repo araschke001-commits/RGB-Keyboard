@@ -1,6 +1,8 @@
 # RGB-Keyboard
 A keyboard that lights up in any color. The colors can also have effects, like a rainbow across the entire keyboard or a wave from the key pressed.
 
+I made this so I could have an RGB keyboard that I can use for typing code and so it looked cool.
+
 ## Schematic
 The schematic is in 3 pages, the Raspberry Pi Pico,  the switches, the LEDs.
 
@@ -20,11 +22,16 @@ PCB:
 
 ## 3d Render
 
+The Onshape link to this project is [here](https://cad.onshape.com/documents/bef98f37e404cedfbf342dc0/w/166404571d869c1e016b182f/e/b0c13dd24791b61a15dc45c6).
+
 3d:
 ![3d](https://github.com/araschke001-commits/RGB-Keyboard/blob/main/Pictures/Screenshot%202026-10-11%20220211.png)
 
+Assembly with switches and keycaps:
+![Switches & Keycaps](https://github.com/araschke001-commits/RGB-Keyboard/blob/main/Pictures/Screenshot%202026-10-30%20000029.png)
+
 ## Reviewer Note(s)
 
-For the difference in price between the two BOMs, the actual tax and shipping is $56.06, not the lower one to make it exactly $103. I just did that so I could submit it. Please grant me a top-up for it. I tried to find the lowest prices I possibly could for it, and I wouldn't be able to get it finished on time without PCBA, and I still might not. All I need is $17.86 on top of the $100 to be able to pay for all of it.
+I will purchase the keycaps and stabilizers for my project along with Week 2, in which I am making the [enclosure for my keyboard](https://github.com/araschke001-commits/RGB-Keyboard-Enclosure), along with the plate for it.
 
-For the key caps being included in the BOM.md and on Half Life but not in RGB Keyboard BOM, the reason is because I realized after I submitted the project that I should have the key caps be under Week 2 rather than Week 1, which made the totals less also. Also am I able to put the shipping cost for the PCB under Week 2 rather than Week 1? If so, I can just do that and I don't need a top-up.
+In the PCB assembly on Onshape, the switches I have in the assembly are not the switches I am using for my project, but are close (the main difference is in the hole for the LED's). Instead, I am using [these](https://mechkeys.com/products/outemu-linear-tactile-silent-mechanical-keyboard-switches?variant=42713962545375). Also the keycaps should have the correct dimensions, but also I am buying them elsewhere (for week 2).
