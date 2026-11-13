@@ -16,6 +16,10 @@ Page 3:
 ![page 3](https://github.com/araschke001-commits/RGB-Keyboard/blob/main/Pictures/Screenshot%202026-10-11%20215933.png)
 
 ## PCB
+ I used an image of a layout I found to base the switch distances off of.
+
+Layout:
+![Layout](https://github.com/araschke001-commits/RGB-Keyboard/blob/main/Pictures/RGB%20Keyboard%20Layout.webp)
 
 PCB:
 ![PCB](https://github.com/araschke001-commits/RGB-Keyboard/blob/main/Pictures/Screenshot%202026-10-11%20215807.png)
