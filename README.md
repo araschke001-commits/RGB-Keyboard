@@ -40,8 +40,9 @@ I will purchase the keycaps and stabilizers for my project along with Week 2, in
 
 In the PCB assembly on Onshape, the switches I have in the assembly are not the switches I am using for my project, but are close (the main difference is in the hole for the LED's). Instead, I am using [these](https://www.aliexpress.us/item/3256802192387196.html). Also the keycaps should have the correct dimensions, but also I am buying them elsewhere (for week 2).
 
-I had to switch from using SMD components with PCBA for the capacitors, diodes, and resistor to using through hole ones to save on cost. The cost had increased because of a $30 coupon on JLCPCB expiring, extra costs for customs on JLCPCB, and Global Standard Direct Line not being available for shipping due to the weight of the PCB. I also am no longer able to use PCBA because of this, and even just the PCB still makes it go right up to the price limit. I also had to find the through hole components on AliExpress, which are these:
-- 2x [100pcs 1N4148 DO-35 Diode](https://www.aliexpress.com/item/3256804920500448.html)
-- 1x [100pcs 330R 1/4W Resistor](https://www.aliexpress.us/item/3256806565404055.html)
-- 1x [200pcs 100nF 10% Monolithic Capacitor](https://www.aliexpress.com/item/3256808311121039.html)
-- 1x [50pcs 10uF Monolithic Capacitor](https://www.aliexpress.com/item/3256807481050401.html)
+I had to switch from using SMD components with PCBA for the capacitors, diodes, and resistor to using through hole ones to save on cost. The cost had increased because of a $30 coupon on JLCPCB expiring, extra costs for customs on JLCPCB, and Global Standard Direct Line not being available for shipping due to the weight of the PCB. I also am no longer able to use PCBA because of this, and even just the PCB still makes it go right up to the price limit. I also had to find the through hole components on AliExpress and change which Raspberry Pi Pico 2 board I was using to save on price, which are these:
+- 1x [Raspberry Pi Pico 2 RP2350 USB-C](https://www.aliexpress.com/item/3256812882649936.html) ($3.97)
+- 2x [100pcs 1N4148 DO-35 Diode](https://www.aliexpress.com/item/3256804920500448.html) ($1.63)
+- 1x [100pcs 330R 1/4W Resistor](https://www.aliexpress.us/item/3256806565404055.html) ($1.14)
+- 1x [200pcs 100nF 10% Monolithic Capacitor](https://www.aliexpress.com/item/3256808311121039.html) ($2.74)
+- 1x [50pcs 10uF Monolithic Capacitor](https://www.aliexpress.com/item/3256807481050401.html) ($0.90)
